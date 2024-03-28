@@ -1,4 +1,4 @@
-# RFM (Recência, Frequência e Valor Monntário)
+# RFM (Recência, Frequência e Valor Monetário)
 
 ## Resumo
 A análise RFM categoriza seus clientes com base na recência de compra, na frequência de compra e quanto dinheiro foi gasto no período em análise.
