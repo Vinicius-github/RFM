@@ -1,11 +1,11 @@
 # RFM (Recência, Frequência e Valor Monntário)
 
 ## Resumo
-A análise RFM categoriza seus clientes com base em quão recentemente eles compraram, com que frequência compraram e quanto dinheiro gastaram.
+A análise RFM categoriza seus clientes com base na recência de compra, na frequência de compra e quanto dinheiro foi gasto no período em análise.
 
 ![image](https://github.com/Vinicius-github/RFM/assets/146575176/e42c4c33-2008-49f4-a052-1d2d817992b2)
 
-Esse método dá aos clientes pontuações com base em três fatores:
+Esse método dá aos clientes pontuações com base nestes três fatores:
 
 - Recência: A recência refere-se a quão recente foi a última compra de um cliente. Os clientes que fizeram uma compra recente, normalmente nas últimas semanas, ainda têm o produto e a marca em mente e são mais propensos a fazer uma compra repetida. Você pode medir a recenticidade da forma que considerar necessária para o seu negócio. No entanto, é importante observar que algumas empresas podem não ter clientes fazendo pedidos a cada poucos dias, semanas ou até mesmo meses. Por exemplo, uma locadora pode vender um único carro para um indivíduo dentro de dez anos.
 - Frequência: A frequência com que o cliente faz compras pode ajudá-lo a identificar clientes recorrentes. Por exemplo, muitos clientes fazem compras repetidas dentro de um período de tempo definido. A frequência é essencial para determinar as pessoas com maior probabilidade de continuar comprando com sua marca após a primeira compra inicial.
