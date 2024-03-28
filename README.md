@@ -22,6 +22,7 @@ Ao utilizar dados de uma análise RFM, você pode entender melhor seus clientes 
 ## Conclusão
 O modelo RFM considera os hábitos de compra dos consumidores, incluindo a recenticidade, a frequência e os valores monetários. Ele pode ajudá-lo a identificar seus principais clientes para melhor anunciar e comercializar seus produtos e serviços para eles.
 
+## Base de dados
 A base de dados utilizada neste exemplot foi: [site](http://archive.ics.uci.edu/ml/datasets/online+retail)
 
 ## Contribuição
